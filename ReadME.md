@@ -1,7 +1,8 @@
 RestaurantMan Backend API
 =========================
 
-Running at: http://restaurantman.link/
+Running at: http://restaurantman.link/  
+https://github.com/BryanC21/RestaurantMan-frontend
 
 University Name: http://www.sjsu.edu/  
 Course: Cloud Technologies http://info.sjsu.edu/web-dbgen/catalog/courses/CMPE281.html   
