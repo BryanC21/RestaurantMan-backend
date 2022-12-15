@@ -1,5 +1,5 @@
 require('dotenv').config();
-var port = process.env.PORT || 4080;
+var port = process.env.PORT || 5002;
 var express = require('express');
 var cors = require('cors');
 var bodyParser = require('body-parser');
