@@ -1,7 +1,7 @@
 RestaurantMan Backend API
 =========================
 
-CHECK API-DOCUMENTATION.md FOR MORE DETAILS ON ROUTES  
+Running at: http://restaurantman.link/
 
 University Name: http://www.sjsu.edu/  
 Course: Cloud Technologies http://info.sjsu.edu/web-dbgen/catalog/courses/CMPE281.html   
@@ -54,6 +54,8 @@ View previous orders
 Sample Demo Screenshots
 ===================
 IN PROJECT SUBMISSION DOC
+
+CHECK API-DOCUMENTATION.md FOR MORE DETAILS ON ROUTES  
 
 Pre-requisites Set Up
 ===================
